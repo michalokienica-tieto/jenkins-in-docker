@@ -1,7 +1,6 @@
 # jenkins-in-docker
 TBD
 
-
 Install Docker-Compose
 
 $ dnf install -y curl
